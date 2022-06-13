@@ -6,7 +6,7 @@ Below, I document some physics simulations that fall under E&M.
 
 ## RLC Circuit with Lightbulb
 
-In this simulation, there is a circuit consisting of a capacitor, resistor, inductor, and lightbulb. As the voltage changes, the power that grows through the lightbulb changes and so, the color of my lightbulb goes to black as the power gets closer to 0. All three cases below were made with Special Two-Derivative Runge Kutta Nyostrom method for numerical integration since the expression of the second derivative accounted for the first derivative as well. 
+In this simulation, there is a circuit consisting of a capacitor, resistor, inductor, and lightbulb. As the voltage changes, the power that grows through the lightbulb changes and so, **_the color of my lightbulb goes to black as the power gets closer to 0_**. All three cases below were made with Special Two-Derivative Runge Kutta Nyostrom method for numerical integration since the expression of the second derivative accounted for the first derivative as well. 
 
 Here are the values of the parameters (that remain constant for all three cases):
 - Inductance (L) of the inductor = 10^(2.1) Henry
