@@ -13,7 +13,7 @@ Here are the values of the parameters (that remain constant for all three cases)
 - Capacitance (C) of the capacitor = 10^(-2) Farad
 - Resistance (R_lb) of the lightbulb = 9.5 Ohms
 
-### Case 1: Underdampened
+### Case 1: Underdamped
 
 ![](https://media.giphy.com/media/20LEonxJEZyekDBM80/giphy.gif)
 ![](https://i.imgur.com/UggKlYe.png)
@@ -22,7 +22,7 @@ In this case, R^2 << L/C, where R is the total resistance of the circuit and is 
 
 R (total) = 20 Ohms
 
-### Case 2: Critically Dampened
+### Case 2: Critically Damped
 
 ![](https://media.giphy.com/media/esACsmXkOQh25t542e/giphy.gif)
 ![](https://i.imgur.com/Ak67uha.png)
@@ -31,7 +31,7 @@ In this case, R^2 = L/C, where R is positive. This creates a curve that is initi
 
 R (total) = 2*sqrt(10^4.1) Ohms
 
-### Case 3: Overdampened
+### Case 3: Overdamped
 
 ![](https://media.giphy.com/media/oRQLuk2dOmB6MPtuzC/giphy.gif)
 ![](https://i.imgur.com/ZbxRrFL.png)
